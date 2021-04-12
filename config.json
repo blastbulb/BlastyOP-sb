@@ -1,0 +1,10 @@
+{
+    "token": "TOKEN", 
+    "password": "PASSWORD",
+    "prefix": "-",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    
+    "tts_language": "en"
+}
