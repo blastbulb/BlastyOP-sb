@@ -860,7 +860,7 @@ async def help(ctx, category=None):
 	await ctx.message.delete()
 	if category is None:
 		embed = discord.Embed(color=0xFF633B, timestamp=ctx.message.created_at)
-		embed.set_author(name="𝐈𝐓𝐀𝐂𝐇𝐈 𝐒𝐄𝐋𝐅𝐁𝐎𝐓|𝙋𝙍𝙀𝙁𝙄𝙓:" +
+		embed.set_author(name="𝐁𝐥𝐚𝐬𝐭𝐲𝐎𝐏 𝐒𝐄𝐋𝐅𝐁𝐎𝐓|𝙋𝙍𝙀𝙁𝙄𝙓:" +
 		                 str(Exeter.command_prefix),
 		                 icon_url=Exeter.user.avatar_url)
 		embed.set_thumbnail(url=Exeter.user.avatar_url)
