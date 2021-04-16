@@ -866,7 +866,7 @@ async def help(ctx, category=None):
 		embed.set_thumbnail(url=Exeter.user.avatar_url)
 		embed.set_image(
 		    url=
-		    "https://cdn.discordapp.com/attachments/827042350521253919/827904781619036160/d7gprlf-041246c0-f27c-40bd-855c-84340618d6e2.gif"
+		    "https://images-ext-2.discordapp.net/external/qdApAg9OCdaHUn7e2wtcZpqsxJ1yGd2aan57KhxFq_c/https/images-ext-2.discordapp.net/external/FA_AnGL0vrwyATKydaro5h7w_koxe9gUYFszKJyZYPA/https/media.discordapp.net/attachments/813739316290256937/825238906751418378/Untitled_Project_Made_with_Clipchamp_1.gif?width=144&height=216"
 		)
 		embed.add_field(name="\uD83E\uDDCA `GENERAL`",
 		                value="Shows all general commands",
